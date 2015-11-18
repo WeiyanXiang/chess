@@ -2,8 +2,7 @@
 
 Thanks
 ------
-- Stockfish authors
-- Crafty authors
+- Dan Li
 
 Version 1.0
 -----------
