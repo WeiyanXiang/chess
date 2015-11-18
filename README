@@ -1,5 +1,3 @@
-# chess
-
 Thanks
 ------
 - Stockfish authors
@@ -56,3 +54,8 @@ Version 6.0
 -----------
 - Bonuses for knight attacking pieces (+20)
 - Bonus for bishop pins (+40)
+
+TODO:
+-----
+- Only extend checks with SEE > 0?
+- Single reply to check should be marked as dangerous.
